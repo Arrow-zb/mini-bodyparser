@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start:bodyparser": "node ./app-bodyparser.js"
+    "start:bodyparser": "node ./app-bodyparser.js",
+    "start:koa-bodyparser": "node ./app-koa-bodyparser.js"
   },
   "dependencies": {
     "express": "~4.16.1",
