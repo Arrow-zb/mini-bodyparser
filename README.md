@@ -62,4 +62,8 @@ yarn
 yarn sratr:bodyparser
 # koa
 yarn sratr:koa-bodyparser
+
+# http://localhost:6090/login.html
+# here for add data
+# and the submit you can see the data you post 
 ```
